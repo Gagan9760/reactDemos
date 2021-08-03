@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Gagan9760/reactDemos/static/css/main.ae75268a.chunk.css",
+    "main.js": "/Gagan9760/reactDemos/static/js/main.17504281.chunk.js",
+    "main.js.map": "/Gagan9760/reactDemos/static/js/main.17504281.chunk.js.map",
+    "runtime-main.js": "/Gagan9760/reactDemos/static/js/runtime-main.2fa10538.js",
+    "runtime-main.js.map": "/Gagan9760/reactDemos/static/js/runtime-main.2fa10538.js.map",
+    "static/js/2.55d27186.chunk.js": "/Gagan9760/reactDemos/static/js/2.55d27186.chunk.js",
+    "static/js/2.55d27186.chunk.js.map": "/Gagan9760/reactDemos/static/js/2.55d27186.chunk.js.map",
+    "static/js/3.969c12a7.chunk.js": "/Gagan9760/reactDemos/static/js/3.969c12a7.chunk.js",
+    "static/js/3.969c12a7.chunk.js.map": "/Gagan9760/reactDemos/static/js/3.969c12a7.chunk.js.map",
+    "index.html": "/Gagan9760/reactDemos/index.html",
+    "static/css/main.ae75268a.chunk.css.map": "/Gagan9760/reactDemos/static/css/main.ae75268a.chunk.css.map",
+    "static/js/2.55d27186.chunk.js.LICENSE.txt": "/Gagan9760/reactDemos/static/js/2.55d27186.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fa10538.js",
+    "static/js/2.55d27186.chunk.js",
+    "static/css/main.ae75268a.chunk.css",
+    "static/js/main.17504281.chunk.js"
+  ]
+}
