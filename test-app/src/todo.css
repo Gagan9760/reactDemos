@@ -1,0 +1,91 @@
+.parent{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+    justify-content: center;
+}
+h1
+{
+    font-size:3rem;
+    font-family: 'Poppins',sans-serif;
+}
+.text{
+    width: 200px;
+    height: 37px;
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 3px;
+    border-color: rgb(13, 86, 243);
+}
+.inputbox{
+    display: flex;
+    flex-direction: column;
+}
+.inputbox2{
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.add{
+    width: 50px;
+    height: 50px;
+    background: none;
+    border: none;
+    background-color:rgb(13, 86, 243);
+    color:white;
+    border-radius: 3px;
+    margin-left: 10px;
+}
+.add:hover
+{
+    background-color:rgb(10, 73, 207);
+}
+.todoitem{
+    font-family: 'Poppins';
+    font-size: 1.25rem;
+    background-color:rgb(13, 86, 243) ;
+    color: white;
+    width: 200px;
+    margin: 5px;
+    border-radius: 3px;
+    padding-left: 10px;
+    box-shadow: 0 1px 5px rgb(0, 0, 0) ;
+    
+}
+@keyframes insert
+{
+    from{transform: translateX(-20px);}
+    to{transform: translateX(0px);}
+}
+.todocontainer{
+    display: flex;
+    animation: insert 0.5s ease;    
+}
+
+.close{
+    width: 31px;
+    height: 31px;
+    background: none;
+    border: none;
+    background-color:rgb(243, 19, 19);
+    color:white;
+    border-radius: 0px 3px 3px 0px;
+    margin: 5px; 
+    margin-left: -36px; 
+    font-weight: 900;
+}
+.close:hover{
+    background-color:rgb(189, 18, 18);
+}
+.todoitem:hover
+{
+    background-color:rgb(10, 73, 207);
+}
+.lp{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

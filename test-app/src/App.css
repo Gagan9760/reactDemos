@@ -1,0 +1,12 @@
+.App
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.count
+{
+  color: red;
+  text-align: center;
+}
